@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c9679f7aff0646d44b092e460be682ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraRigTransform: {instanceID: 0}
+  - headTransform: {instanceID: 0}
+  - laserPrefab: {fileID: 1338862414193942, guid: a8fa3b04619e84d4ba84cdec57b413ef,
+      type: 2}
+  - teleportReticlePrefab: {fileID: 100000, guid: a9e891d1e1a9cb141b96aebaaee994cc,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
