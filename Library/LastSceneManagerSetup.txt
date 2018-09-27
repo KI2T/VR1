@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "PandaHackVR2/Introduction-To-HTC-Vive-Final \u0434\u043B\u044F Unity5.5/Introduction
+    To HTC Vive - 2/Assets/Scenes/Game.unity"
+  isLoaded: 1
+  isActive: 1
