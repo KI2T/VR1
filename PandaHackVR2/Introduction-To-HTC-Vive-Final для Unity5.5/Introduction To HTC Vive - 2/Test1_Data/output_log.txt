@@ -1,43 +1,44 @@
 Initialize engine version: 5.5.0f3 (38b4efef76f0)
 GfxDevice: creating device client; threaded=1
-VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_HmdNotFoundPresenceFailed: "Hmd Not Found Presence Failed (126)"!
- 
-(Filename:  Line: 959)
-
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GT 730M (ID=0xfe1)
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
     Vendor:   NVIDIA
-    VRAM:     4052 MB
-    Driver:   23.21.13.9077
+    VRAM:     8084 MB
+    Driver:   24.21.14.1163
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-Platform assembly: C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.VR.dll (this message is harmless)
-Loading C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
-- Completed reload, in  0.442 seconds
-Platform assembly: C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Programming\PandaHackVR2\Introduction-To-HTC-Vive-Final\Introduction To HTC Vive - 2\Test1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Q:\Program Files\Unity\Projects\VR1\PandaHackVR2\Introduction-To-HTC-Vive-Final для Unity5.5\Introduction To HTC Vive - 2\Test1_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1366x768 40Hz; virtual: 1366x768 at 0,0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initialized touch support.
-VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_HmdNotFoundPresenceFailed: "Hmd Not Found Presence Failed (126)"!
+OpenVR initialized!
  
-(Filename:  Line: 959)
+(Filename:  Line: 381)
 
-VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_HmdNotFoundPresenceFailed: "Hmd Not Found Presence Failed (126)"!
+UnloadTime: 1.481610 ms
+Connected to lighthouse:LHR-D5797EF8
  
-(Filename:  Line: 959)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-UnloadTime: 58.178989 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1958 -> priority: 1 
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1860 -> priority: 1 
+  Thread -> id: 21ac -> priority: 1 
+OpenVR Shutdown
+ 
+(Filename:  Line: 815)
+
